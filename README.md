@@ -1,2 +1,2 @@
 # Machine Learning With Python
-Data Science &amp; ML Projects/Samples
+Python Libraries, Data Science & ML Projects/Samples 
