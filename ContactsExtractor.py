@@ -20,6 +20,6 @@ for index, row in contactsdf.iterrows():
     v.tel.value = str(row['Mobile'])
     v.tel.type_param = 'WORK'
     output = v.serialize()
-    file = open('D:/' +word_list[0] + ' ' + word_list[-1] + '.vcf','w')
+    file = open('D:/Contacts\\' +word_list[0] + ' ' + word_list[-1] + '.vcf','w')
     file.write(output)
     file.close()
